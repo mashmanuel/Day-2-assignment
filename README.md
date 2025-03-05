@@ -310,7 +310,7 @@ Importance of Issues and Project Boards on GitHub:
 3. Improving Project Organization: Project boards alongside issues enable teams to classify extensive projects into smaller workable tasks. Trackable progress becomes simpler through issues and project boards which facilitate the establishment of milestones that enable full review of project elements. Through this method one can easily maintain an overview of how their project development progresses.
    Example: Teams achieve project progress tracking with issue boards as well as project boards to develop sprint plans and set milestone targets. This management tool enables teams to find problems and redirect resources to maintain project punctuality. Project boards help teams monitoring each feature's progress and detecting delays when functioning on a software release.
    
-10. **Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?****
+    **10. Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?****
     Common Challenges and Pitfalls
     I) Merge conflicts: 
     ii) Poor branching strategy
